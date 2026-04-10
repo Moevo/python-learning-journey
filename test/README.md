@@ -12,7 +12,7 @@ This directory is used for:
 - Testing code before organizing it into main folders  
 - Improving problem-solving skills  
 ---
-## ⚠️ Note
+## ⚠️ Note ⚠️
 Code in this folder may not be optimized or final. It is mainly for learning and experimentation.
 ---
 ## 🚀 Future Plans
