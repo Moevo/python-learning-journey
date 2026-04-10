@@ -1,19 +1,20 @@
-# 🐍 Python Learning Journey
-Welcome to my Python learning journey 👨‍💻🚀  
-This repository documents my progress in learning Python, building projects, and exploring cybersecurity concepts.
+# 🧪 Test Folder
+This folder contains test scripts and experimental code written during my Python learning journey.
 ---
-## 🚀 What You'll Find Here
-- 📘 Python basics & exercises  
-- ⚙️ Automation scripts  
-- 🔐 Cybersecurity-related tools (in progress)  
+## 📂 Contents
+- Practice scripts  
+- Testing ideas and small experiments  
+- Debugging and trial code  
 ---
-## 🛠️ Tech Stack
-- Python 3  
+## 🎯 Purpose
+This directory is used for:
+- Trying new concepts  
+- Testing code before organizing it into main folders  
+- Improving problem-solving skills  
 ---
-## 🎯 Goals
-- Improve problem-solving skills  
-- Build real-world projects  
-- Apply Python in cybersecurity  
+## ⚠️ Note
+Code in this folder may not be optimized or final. It is mainly for learning and experimentation.
 ---
-## 📌 About Me
-I'm a Cybersecurity student passionate about coding, ethical hacking, and building powerful tools.
+## 🚀 Future Plans
+- Move stable scripts to main project folders  
+- Improve code structure and documentation
