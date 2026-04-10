@@ -1,19 +1,37 @@
 # 🐍 Python Learning Journey
 Welcome to my Python learning journey 👨‍💻🚀  
-This repository documents my progress in learning Python, building projects, and exploring cybersecurity concepts.
+This repository documents my progress in learning Python through practice, experiments, and real mini-projects. It includes cryptography concepts, system simulations, and general coding practice.
 ---
-## 🚀 What You'll Find Here
-- 📘 Python basics & exercises  
-- ⚙️ Automation scripts  
-- 🔐 Cybersecurity-related tools (in progress)  
+## 📂 Repository Structure
+- 🔐 **cryptography** → Basic cryptography concepts and Python implementations  
+- 🧪 **test** → Practice code, experiments, and learning scripts  
+- 🍔 **rest system** → Restaurant system project using Python & Jupyter Notebook  
+---
+### 🔐 Cryptography
+Basic implementations and experiments related to encryption, decryption, and security concepts.
+### 🍔 Restaurant System
+A Python-based simulation of a shop system (sandwich & meat shop) using Jupyter Notebook.  
+Includes ordering logic, pricing system, and user interaction.
+### 🧪 Test Folder
+A sandbox for trying new ideas, debugging code, and practicing Python concepts before organizing them into proper projects.
+---
+## 🎯 Goals
+- Strengthen Python fundamentals  
+- Build practical mini-projects  
+- Learn basic cryptography concepts  
+- Improve problem-solving and logical thinking  
 ---
 ## 🛠️ Tech Stack
 - Python 3  
+- Jupyter Notebook  
 ---
-## 🎯 Goals
-- Improve problem-solving skills  
-- Build real-world projects  
-- Apply Python in cybersecurity  
+## 📈 Learning Approach
+This repository follows a **learning-by-doing approach**:
+- Write code  
+- Experiment and break things  
+- Fix and improve  
+- Turn practice into projects  
 ---
 ## 📌 About Me
-I'm a Cybersecurity student passionate about coding, ethical hacking, and building powerful tools.
+Cybersecurity student passionate about programming, security, and building real-world tools.  
+This repository is my journey from basics to practical projects.
